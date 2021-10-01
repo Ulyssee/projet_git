@@ -1,7 +1,7 @@
 version: "3.9"  # optional since v1.27.0
 services:
   web:
-    build: .
+    build: .docker/nginx/default.conf
     ports:
       - "5000:5000"
     volumes:
