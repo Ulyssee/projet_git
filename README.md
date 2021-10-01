@@ -25,8 +25,6 @@ The customer us asks to put in place a maximum of best practices, in particular 
 ```
 $ git clone https://example.com
 $ cd ../path/to/the/file
-$ npm install
-$ npm start
 ```
 Side information: To use the application in a special environment use ```lorem ipsum``` to start
 ## Collaboration
