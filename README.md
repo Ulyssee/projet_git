@@ -4,6 +4,6 @@ faazddeefef
 uaehukolm^test double commit
 aza
 
-test pre-commit.sampled
+test pre-commit.samplede
 
 
